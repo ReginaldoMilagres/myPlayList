@@ -1,0 +1,26 @@
+{
+  "name": "myplaylist",
+  "version": "1.0.0",
+  "description": "Play List Thi Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReginaldoMilagres/myPlayList.git"
+  },
+  "author": "Reginaldo (Thi Code)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReginaldoMilagres/myPlayList/issues"
+  },
+  "homepage": "https://github.com/ReginaldoMilagres/myPlayList#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
