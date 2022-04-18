@@ -19,7 +19,9 @@
   "homepage": "https://github.com/ReginaldoMilagres/myPlayList#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
     "express": "^4.17.3",
+    "mogoose": "^0.0.1-security",
     "mongoose": "^6.3.0",
     "nodemon": "^2.0.15"
   }
